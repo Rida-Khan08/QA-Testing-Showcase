@@ -89,7 +89,6 @@ This repository is my **QA Testing Showcase**. Here I test **real, live websites
 
 ## 📬 Let's Connect
 
-<!-- ⚠️ "YOUR-EMAIL" ki jagah apni asli email zaroor likhein! -->
 <p align="center">
   <a href="mailto:ridakhan.0802@gmail.com"><img src="https://img.shields.io/badge/Gmail-E4032E?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
