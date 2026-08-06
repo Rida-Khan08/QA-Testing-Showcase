@@ -1,1 +1,51 @@
-Open this link: "https://typhoon-desk-53a.notion.site/KFC-Pakistan-Web-Application-Testing-3b4058d6bc0d800892a3cd79982bcfb5?source=copy_link"
+# 🍗 KFC Pakistan (Manual Testing)
+
+> **📓 Complete Interactive Project (Notion):** [KFC Pakistan Web Application Testing](https://typhoon-desk-53a.notion.site/KFC-Pakistan-Web-Application-Testing-3b4058d6bc0d800892a3cd79982bcfb5)
+
+**Tester:** Rida Khan
+**Date:** 06 August 2026
+**Application URL:** https://www.kfc.com.pk/
+**Testing Type:** Manual Functional Testing (Black Box)
+
+---
+
+## 📊 Execution Summary
+
+| Metric | Result |
+|:---|:---:|
+| Test Scenarios Identified | **17** |
+| Test Cases Executed | **35** |
+| Passed | **30** ✅ |
+| Failed | **5** ❌ |
+| Real Bugs Reported | **5** 🐞 |
+
+---
+
+## 📂 Documents in This Folder
+
+| # | Document | Description |
+|:---:|:---|:---|
+| 1 | [01-Test-Scenarios.md](./01-Test-Scenarios.md) | 17 test scenarios covering the full application |
+| 2 | [02-Test-Cases.md](./02-Test-Cases.md) | 35 detailed test cases with steps, test data & results |
+| 3 | [03-Bug-Reports.md](./03-Bug-Reports.md) | 5 professional bug reports with severity & priority |
+| 4 | [04-Summary-and-Learning.md](./04-Summary-and-Learning.md) | Key observations, learnings & recommendations |
+| 5 | [evidence/](./evidence/) | Screenshot evidence for every reported bug |
+
+---
+
+## 🐞 Bug Highlights
+
+| Bug ID | Title | Severity |
+|:---|:---|:---:|
+| BUG_001 | Invalid email format accepted in registration form | <img src="https://img.shields.io/badge/Major-E4032E"> |
+| BUG_002 | OTP field pre-filled with previous OTP on resend | <img src="https://img.shields.io/badge/Major-E4032E"> |
+| BUG_003 | Outside click closes modal — all user data lost | <img src="https://img.shields.io/badge/Moderate-FF8C00"> |
+| BUG_004 | Future-date error toasts stack infinitely | <img src="https://img.shields.io/badge/Minor-2E8B57"> |
+| BUG_005 | Dead-end after OTP modal dismissal (120s loop) | <img src="https://img.shields.io/badge/Major-E4032E"> |
+
+---
+
+## 🔗 Quick Links
+
+- [⬅️ Back to Main Portfolio](../README.md)
+- [📓 Notion Portfolio](https://typhoon-desk-53a.notion.site/KFC-Pakistan-Web-Application-Testing-3b4058d6bc0d800892a3cd79982bcfb5)
