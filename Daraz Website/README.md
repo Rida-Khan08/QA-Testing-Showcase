@@ -32,13 +32,9 @@
 This repository is my **QA Testing Showcase** , real websites tested, requirement-based scenarios analyzed, and every finding documented professionally: test scenarios, detailed test cases, RTM, and bug reports with evidence.
 
 👩‍💻 **Tester:** Rida Khan • SQA Engineer
-• ✉️ ridakhan0802@gmail.com • 🔗 [LinkedIn](https://www.linkedin.com/in/rida-khan12345) > • 📓 Notion: [Daraz Testing] (https://app.notion.com/p/Daraz-Website-Testing-3b5058d6bc0d803796e3fabf3229768d?source=copy_link)
+• ✉️ ridakhan0802@gmail.com • 🔗 [LinkedIn](https://www.linkedin.com/in/rida-khan12345) 
 
-### 📈 Overall Portfolio Stats
-
-| Projects | Test Scenarios | Test Cases | Bugs Documented |
-|:---:|:---:|:---:|:---:|
-| **3** | **64** | **89** | **17** 🐞 |
+ 📓 Notion: [Daraz Testing] (https://typhoon-desk-53a.notion.site/Daraz-Website-Testing-3b5058d6bc0d803796e3fabf3229768d?source=copy_link)
 
 ---
 
@@ -46,7 +42,7 @@ This repository is my **QA Testing Showcase** , real websites tested, requiremen
 
 | # | Project | Focus Area | Status |
 |:---:|:---|:---|:---:|
-| **01** | [Daraz.pk](./Day-03-Daraz/) | E-Commerce Testing • Cross-Browser • Exploratory | ✅ Completed |
+| **01** | [Daraz Testing]( https://typhoon-desk-53a.notion.site/Daraz-Website-Testing-3b5058d6bc0d803796e3fabf3229768d?source=copy_link ) | E-Commerce Testing • Cross-Browser • Exploratory | ✅ Completed |
 
 ---
 
